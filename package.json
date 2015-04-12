@@ -1,0 +1,31 @@
+{
+  "name": "yadda-casperjs-bootstrap",
+  "version": "0.0.1",
+  "description": "A yadda + casperjs bootstrap projects.",
+  "main": "test.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michael-donat/yadda-casperjs-bootstrap.git"
+  },
+  "keywords": [
+    "yadda",
+    "casperjs",
+    "bdd",
+    "browser",
+    "automation"
+  ],
+  "author": "Michael Donat <michael.donat@me.com>",
+  "license": "GPL3.0",
+  "bugs": {
+    "url": "https://github.com/michael-donat/yadda-casperjs-bootstrap/issues"
+  },
+  "homepage": "https://github.com/michael-donat/yadda-casperjs-bootstrap",
+  "devDependencies": {
+    "casperjs": "^1.1.0-beta3",
+    "phantomjs": "^1.9.16",
+    "yadda": "^0.11.5"
+  }
+}
